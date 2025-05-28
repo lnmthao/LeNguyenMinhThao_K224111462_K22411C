@@ -20,5 +20,13 @@
     <string name="title_product_detail">Product Details</string>
     <string name="title_add_product">Add product</string>
     <string name="add_product">Add New Product</string>
+    <string name="title_student_id">Student ID:</string>
+    <string name="title_student_id_fill">K224111462</string>
+    <string name="title_student_name">Student Name:</string>
+    <string name="title_student_name_fill">Le Nguyen Minh Thao</string>
+    <string name="title_student_email">Student Email:</string>
+    <string name="title_student_email_fill">thaolnm22411c@st.uel.edu.vn</string>
+    <string name="title_student_class">Student Class:</string>
+    <string name="title_student_class_fill">K224111C</string>
 
 </resources>
