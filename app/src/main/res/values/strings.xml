@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LeNguyenMinhThao_K224111462_K22411C</string>
+    <string name="title_login_user_name">User Name:</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_save_login_infor">Save login information</string>
+    <string name="title_login_button_login">LOGIN</string>
+    <string name="confirm_exit_title">Exit confirmation</string>
+    <string name="confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="confirm_exit_yes">YES</string>
+    <string name="confirm_exit_no">NO</string>
+    <string name="title_new_product">New Product</string>
+    <string name="title_about_product">About Product</string>
+    <string name="title_new">New</string>
+    <string name="title_save">Save</string>
+    <string name="title_remove">Remove</string>
+    <string name="title_product_id">Product ID:</string>
+    <string name="title_product_name">Product Name:</string>
+    <string name="title_product_code">Product Code:</string>
+    <string name="title_product_unit_price">Product UnitPrice:</string>
+    <string name="title_product_detail">Product Details</string>
+    <string name="title_add_product">Add product</string>
+    <string name="add_product">Add New Product</string>
+
+</resources>
